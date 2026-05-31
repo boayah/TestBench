@@ -1,6 +1,7 @@
 # TestBench Tracker
 
 A professional engineering test operations platform for tracking test protocols, test runs, fixtures, failures, and verification results. Built as a portfolio project targeting engineering technician, product verification, lab automation, QA, and test engineering support roles.
+<img width="1731" height="909" alt="image" src="https://github.com/user-attachments/assets/d5c059e6-a8be-41bc-ba2f-49eb1b8ba604" />
 
 ---
 
